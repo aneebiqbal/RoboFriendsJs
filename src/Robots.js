@@ -12,12 +12,6 @@ export const robots =[
     email: 'hassansaulat@gmail.com'
   },
   {
-    id:2.5,
-    name: 'Zaira Iqbal',
-    username: 'Zaira.IQ',
-    email: 'Zairaiqbal@gmail.com'
-  },
-  {
     id:3,
     name: 'fazeel aslam',
     username: 'fazeel',
